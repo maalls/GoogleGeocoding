@@ -1,0 +1,17 @@
+{
+    "name": "maalls/google-geocoding",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Malo Yamakado",
+            "email": "maalls@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-4": { "Maalls\\Google\\Geocoding\\": "" }
+    }
+    
+}
